@@ -1,0 +1,2 @@
+Task 2:
+In this, I created a table with headings using <thead> and fill it with student data using <tbody>, <tr>, <th>, and <td>. Then, applied CSS to add borders, spacing (padding), and style the header row with a background color.

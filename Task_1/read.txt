@@ -1,0 +1,2 @@
+Task 1:
+It's about how to display an image on a webpage using HTML and style it with CSS. In this, I added a heading, an image using the <img> tag with proper src and alt attributes, and a paragraph describing it. Then, using CSS, you control the image size (300px), center it on the page, and add spacing above the text. It helps you understand basic layout, accessibility (alt text), and styling together.
